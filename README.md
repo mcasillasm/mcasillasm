@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hola, soy Maribel Casillas
 
-<!--
-**mcasillasm/mcasillasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Especialista en Supply Chain y Planeación de la Demanda con +15 años de experiencia en empresas globales.  
+🎯 Apasionada por aplicar Ciencia de Datos, IA y Analítica Predictiva en procesos IBP y S&OP.  
+📊 Desarrolladora de dashboards inteligentes con Power BI, Python y SAP.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Áreas de especialidad
+- IBP / S&OP / Demand Planning
+- Data Science & AI for Supply Chain
+- Visualización de Datos: Power BI & Dash (Python)
+- Automatización de flujos SAP → Python → BI
+- Forecasting con Machine Learning
+
+---
+
+### 📚 Proyectos destacados
+
+
+
+---
+
+### 🌐 Conecta conmigo
+- [LinkedIn](www.linkedin.com/in/maribel-casillas-47665133)
+  
